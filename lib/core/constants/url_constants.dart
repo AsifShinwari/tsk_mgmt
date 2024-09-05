@@ -1,0 +1,1 @@
+const String loginApiUrl = 'https://myabilities.lightway-soft.com/api/WebServicesForMobileApp';
